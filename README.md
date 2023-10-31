@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ikemal12
-- 👀 I’m interested in graphics, web applications and learning more about programming in general
-- 🌱 I’m currently learning Java and Python
+- 👀 I’m interested in graphics, web applications and ML
+- 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on any open-source projects
 - 📫 How to reach me 
 
